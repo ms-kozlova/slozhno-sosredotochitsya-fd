@@ -200,10 +200,6 @@
     margin-top: 40px;
 }
 
-.header__theme-menu-button_active {
-    pointer-events: none;
-}
-
 @media (width >= 768px) {
     :root {
         --page-padding: 20px;
