@@ -165,11 +165,11 @@
 }
 
 .article__text-link:hover {
-    border: 1px solid var(--article__text_color);
+    border-bottom: 1px solid var(--article__text_color);
 }
 
 .article__text-link:focus-visible {
-    border-bottom: 1px solid var(--article__text_color);
+    border: 1px solid var(--article__text_color);
 }
 
 .subtitle {
